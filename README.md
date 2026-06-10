@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Muhammed Aslam 👋
 
-<!--
-**aslam-automation/aslam-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer with 10+ years of experience.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Selenium WebDriver
+- Java
+- Playwright
+- JavaScript
+- API Testing
+- FlaUI Desktop Automation
+- Jenkins
+- Git
+- CI/CD
+
+## Currently Learning
+
+- Playwright Advanced Framework Design
+- TypeScript
+- AI-assisted Testing
+
+## Featured Projects
+
+### Playwright Demo Framework
+Automation framework using Playwright and JavaScript.
+
+### Selenium Java Framework
+Automation framework using Selenium, Java, Maven and TestNG.
+
+### FlaUI C# Desktop Automation Framework
+Desktop automation framework using FlaUI, C#
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/muhammed-aslam-p-1570b7b7
+Email: paslammkd@gmail.com

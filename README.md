@@ -14,22 +14,35 @@ QA Automation Engineer with 10+ years of experience.
 - Git
 - CI/CD
 
-## Currently Learning
+## Core Expertise
 
-- Playwright Advanced Framework Design
-- TypeScript
-- AI-assisted Testing
+- Selenium Automation
+- Playwright Automation
+- FlaUI Desktop Automation
+- API Testing
+- Framework Architecture
 
 ## Featured Projects
 
 ### Playwright Demo Framework
-Automation framework using Playwright and JavaScript.
+https://github.com/aslam-automation/playwright-demo-framework
 
 ### Selenium Java Framework
-Automation framework using Selenium, Java, Maven and TestNG.
+https://github.com/aslam-automation/selenium-java-framework
 
-### FlaUI C# Desktop Automation Framework
-Desktop automation framework using FlaUI, C#
+### FlaUI Desktop Automation Framework
+https://github.com/aslam-automation/flaui-desktop-automation-framework
+
+## Experience
+
+QA Automation Engineer with 10+ years of experience in:
+
+- Web Automation
+- Desktop Automation
+- API Testing
+- Framework Development
+- CI/CD Integration
+- Test Strategy
 
 ## Contact
 
